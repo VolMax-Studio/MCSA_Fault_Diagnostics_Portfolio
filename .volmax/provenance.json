@@ -1,0 +1,25 @@
+{
+  "baseline_commit": "c67f0144c56fc9dc9ec3ee81e8c3e44dae2815f4",
+  "baseline_tree": "d102ae8e273bdfdfc538bd2b65b5eb8095299728",
+  "behavior": {
+    "callbacks": false,
+    "executable": false,
+    "network_calls": false,
+    "telemetry": false
+  },
+  "canonical_url": "https://github.com/VolMax-Studio/MCSA_Fault_Diagnostics_Portfolio",
+  "default_branch_at_recording": "main",
+  "license": {
+    "detected_spdx": null,
+    "files": [],
+    "note": "This provenance record does not grant or alter license rights."
+  },
+  "owner": "VolMax-Studio",
+  "record_id": "urn:volmax:github:VolMax-Studio/MCSA_Fault_Diagnostics_Portfolio:c67f0144c56fc9dc9ec3ee81e8c3e44dae2815f4",
+  "record_type": "volmax.repository-provenance",
+  "record_version": 1,
+  "recorded_at": "2026-10-08T19:22:48+00:00",
+  "repository": "VolMax-Studio/MCSA_Fault_Diagnostics_Portfolio",
+  "schema": "urn:volmax:provenance:v1",
+  "scope": "Repository identity and baseline commit only; historical tags, releases, evidence, authorship, and existing file bytes are unchanged."
+}
